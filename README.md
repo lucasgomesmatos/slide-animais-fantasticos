@@ -1,1 +1,1 @@
-# slide-animais-fantasticos
+# Projeto slide animais fantásticos
