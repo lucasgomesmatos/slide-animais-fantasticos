@@ -1,4 +1,4 @@
-# Projeto slide animais fantásticos
+# Projeto slide Animais Fantásticos 
 
 ## Tecnologias usadas.
 
